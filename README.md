@@ -53,7 +53,7 @@ The application follows a client-server architecture using Java RMI. Here's a br
 1. **Clone the repository**
 
 ```bash 
-  git clone git@github.com:ElazzouziHassan/RMI-Final.git
+  git clone @ https://github.com/Ilham-Syed/Java-RMI-Chat-Application
 ```
 ```bash
   cd RMI-Final
